@@ -1,7 +1,7 @@
 # bikesharing
 
 # Tableau Dashboard
-[link to dashboard]("https://public.tableau.com/app/profile/susan.friesen/viz/NYCCitibikes/NYCCitibikes?publish=yes")
+[link to dashboard](https://public.tableau.com/app/profile/susan.friesen/viz/NYCCitibikes/NYCCitibikes?publish=yes)
 
 # Overview of Analysis
 This project is to create visualizations through Tableau to show ridership information in New York City for the Citibike bike-sharing program. The goal is to use these visualization to show investors that a similar program might work in Des Moines, Iowa. The original dataset contains information regarding trip duration, start and end times of each ride, starting and ending location, birth year and gender of the user, as well as if the user is a customer or subscriber to the service. Using this data, the following visualizations were built in Tableau:
