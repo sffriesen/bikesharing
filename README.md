@@ -6,34 +6,42 @@ This project is to create visualizations through Tableau to show ridership infor
 
 # Results
 #### Checkout Times for Users
+![](Resources/checkout_times_for_users.PNG)
 
 This line graph shows the number of rides for each trip duration. Per this graph, the majority of rides are under 20 minutes, with the peak being around 5 minutes (with ~150,000 rides around the 5 minute mark).
 
-#### Checkout Times by gender
+#### Checkout Times by Gender
+![](Resources/checkout_times_by_gender.PNG)
 
 Similar to the previous graph, this line graph shows the number of rides for each trip duration, filtered by the customers' gender. Here we can see that the majority of Male and Female riders also ride for under 20 minutes (with the peak being around 5 minutes). While there are far fewer riders with an "Unknown" gender, the majority of these fall below the 30 minute mark, with no discernible peak.
 
 #### Gender Breakdown
+![](Resources/gender_breakdown.PNG)
 
 This pie chart visualizes the ratio of rider genders, with the majority of riders being Males.
 
 #### August Peak Hours
+![](Resources/august_peak_hours.PNG)
 
 This bar graph shows the number of rides started during each hour of the day throughout August. Thus we get a visualization of the peak hours for starting a ride. According to this graph, we can see that 8am-9am and 5pm-6pm have the highest ridership, with 12am-5am having the lowest ridership.
 
 #### Trips by Weekday per Hours
+![](Resources/trips_per_hour.PNG)
 
 This heatmap shows ridership per Hour per Weekday. Here we can see that around 6am-9am and 5pm-7pm have the highest ridership during weekdays (Monday-Friday), with Saturdays having similar ride counts throughout the day (9am-7pm).
 
 #### Trips by Gender (Weekday per Hour)
+![](Resources/trips_by_gender.PNG)![](Resources/trips_by_gender_male.PNG)![](Resources/trips_by_gender_unknown.PNG)
 
 Similarly, this heatmap shows the same ridership per Hour per Weekday, filtered by the customer's gender. We can see the above patterns hold true for Male and Female riders, with customers with an Unknown gender not showing a strong pattern.
 
 #### Customer types
+![](Resources/customer_types.PNG)
 
 This pie chart shows the ratio of customer types using bikes (customers vs. subscribers). Here we can see that the majority of users are subscribers.
 
 #### User Trips by Gender by Weekday
+![](Resources/user_trips_by_gender.PNG)
 
 This heat map shows the number of trips taken by customers vs subscribers, filtered by gender. We can see that the majority of Male users are Subscribers, there are more Female subscribers than Female customers (although not as strong of a correlation as Males), and there are more Unknown Gender customers than subscribers.
 
